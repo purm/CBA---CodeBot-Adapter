@@ -1,0 +1,2 @@
+This is the official silverlight 4.0 System.Xml.XPath Library.
+Its needed because the HtmlAgilityPack depends on it.
